@@ -95,6 +95,7 @@ ebird/14spe_2022/checkpoint_ebird_SM_4826_obs.csv
 ebird/14spe_2022/checkpoint_ebird_XK_11848_obs.csv
 ebird/20_spe_combined_european_birds_full.csv
 ebird/checkpoint_ebird_SK_378_obs.csv
+<<<<<<< HEAD
 /datasets
 .DS_Store
 ebird/.DS_Store
@@ -119,3 +120,9 @@ night_lights_nika/output_images_black_marble/VNP46A3.A2014182.h19v04.002.2025090
 night_lights_nika/output_images_black_marble/VNP46A3.A2014213.h19v04.002.2025090190652.png
 night_lights_nika/process_nasa_satellite_images.ipynb
 night_lights_nika/README.md
+=======
+>>>>>>> parent of 2ec1385 (test)
+ebird/european_bird_analysis_3.ipynb
+ebird/bird_api_improved_1.ipynb
+ebird/european_bird_analysis_3.ipynb
+ebird/bird_api_improved_1.ipynb
