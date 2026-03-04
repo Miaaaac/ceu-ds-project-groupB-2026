@@ -96,3 +96,26 @@ ebird/14spe_2022/checkpoint_ebird_XK_11848_obs.csv
 ebird/20_spe_combined_european_birds_full.csv
 ebird/checkpoint_ebird_SK_378_obs.csv
 /datasets
+.DS_Store
+ebird/.DS_Store
+ebird/bird_api_improved_1.ipynb
+ebird/checkpoint_ebird_CH_4865_obs.csv
+ebird/checkpoint_ebird_ES_3254_obs.csv
+ebird/checkpoint_ebird_GB_8130_obs.csv
+ebird/checkpoint_ebird_SE_4282_obs.csv
+ebird/checkpoint_ebird_SI_733_obs.csv
+ebird/checkpoint_ebird_TR_5907_obs.csv
+ebird/checkpoint_ebird_UA_6121_obs.csv
+ebird/checkpoint_ebird_VA_8130_obs.csv
+ebird/european_bird_analysis_3.ipynb
+Gret tit/.DS_Store
+historic_bird/.DS_Store
+night_lights_nika/.DS_Store
+night_lights_nika/coordinates_VNP46A3.npz
+night_lights_nika/lat_long_vals.ipynb
+night_lights_nika/notes_on_jupyter_notebooks.md
+night_lights_nika/output_images_black_marble/single_image_VNP46A3.A2014182.h19v04.002.2025090185911.h5.png
+night_lights_nika/output_images_black_marble/VNP46A3.A2014182.h19v04.002.2025090185911.png
+night_lights_nika/output_images_black_marble/VNP46A3.A2014213.h19v04.002.2025090190652.png
+night_lights_nika/process_nasa_satellite_images.ipynb
+night_lights_nika/README.md
