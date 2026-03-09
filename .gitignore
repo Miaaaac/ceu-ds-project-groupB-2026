@@ -147,3 +147,5 @@ ebird/native_species/ebd_grnsan_relJan-2026_europe_only.csv
 ebird/native_species/ebd_gretit1_201801_202212_smp_relJan-2026_europe_only.csv
 ebird/native_species/ebd_eurrob1_201801_202212_smp_relJan-2026_europe_only.csv
 ebird/native_species/ebd_eurbul_relJan-2026_europe_only.csv
+.DS_Store
+ebird/.DS_Store
