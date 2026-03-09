@@ -95,6 +95,7 @@ ebird/14spe_2022/checkpoint_ebird_SM_4826_obs.csv
 ebird/14spe_2022/checkpoint_ebird_XK_11848_obs.csv
 ebird/20_spe_combined_european_birds_full.csv
 ebird/checkpoint_ebird_SK_378_obs.csv
+<<<<<<< HEAD
 /datasets
 .DS_Store
 ebird/.DS_Store
@@ -119,3 +120,30 @@ night_lights_nika/output_images_black_marble/VNP46A3.A2014182.h19v04.002.2025090
 night_lights_nika/output_images_black_marble/VNP46A3.A2014213.h19v04.002.2025090190652.png
 night_lights_nika/process_nasa_satellite_images.ipynb
 night_lights_nika/README.md
+=======
+>>>>>>> parent of 2ec1385 (test)
+ebird/european_bird_analysis_3.ipynb
+ebird/bird_api_improved_1.ipynb
+ebird/european_bird_analysis_3.ipynb
+ebird/bird_api_improved_1.ipynb
+Gret tit/birddatafiltering.ipynb
+ebird/migra_species_europe_only.csv
+ebird/migra_species/ebd_x00786_201701_202212_relJan-2026_europe_only.csv
+ebird/migra_species/ebd_woosan_201701_202212_relJan-2026_europe_only.csv
+ebird/migra_species/ebd_whimbr1_201701_202212_relJan-2026_europe_only.csv
+ebird/migra_species/ebd_sander_201701_202212_relJan-2026_europe_only.csv
+ebird/migra_species/ebd_ruff_201701_202212_relJan-2026_europe_only.csv
+ebird/migra_species/ebd_redkno_201701_202212_relJan-2026_europe_only.csv
+ebird/migra_species/ebd_litsti_201701_202212_relJan-2026_europe_only.csv
+ebird/migra_species/ebd_grnsan_relJan-2026_europe_only.csv
+ebird/migra_species/ebd_gargan_201701_202212_relJan-2026_europe_only.csv
+ebird/migra_species/ebd_euhbuz1_201701_202212_relJan-2026_europe_only.csv
+ebird/migra_species/ebd_cursan_201701_202212_relJan-2026_europe_only.csv
+ebird/migra_species/ebd_blkter1_relJan-2026_europe_only.csv
+ebird/native_species_europe_only.csv
+ebird/native_species/ebd_tawowl1_201801_202212_relJan-2026_europe_only.csv
+ebird/native_species/ebd_grswoo_201801_202212_relJan-2026_europe_only.csv
+ebird/native_species/ebd_grnsan_relJan-2026_europe_only.csv
+ebird/native_species/ebd_gretit1_201801_202212_smp_relJan-2026_europe_only.csv
+ebird/native_species/ebd_eurrob1_201801_202212_smp_relJan-2026_europe_only.csv
+ebird/native_species/ebd_eurbul_relJan-2026_europe_only.csv
