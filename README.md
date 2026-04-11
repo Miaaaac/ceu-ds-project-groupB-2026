@@ -1,4 +1,4 @@
-# AAnthropogenic Influence on Spatial Avian Distribution
+# Anthropogenic Influence on Spatial Avian Distribution
 - final version
 ## CEU Data Science Project – Group B 2026
 
