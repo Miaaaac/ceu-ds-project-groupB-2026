@@ -1,34 +1,36 @@
 # AAnthropogenic Influence on Spatial Avian Distribution
 
-ceu-ds-project-groupB-2026/
-│
+## CEU Data Science Project – Group B 2026
 
-├── README.md
+## Project Description
+This project quantifies the influence of anthropogenic activity 
+on avian behaviour in Europe between 2017 and 2022, using 
+nighttime light intensity (NASA VIIRS) and air quality (AQICN) 
+as proxies for human activity, and eBird citizen science 
+observations as the measure of bird spatial distribution.
 
-├── LICENSE
+## Repository Structure
+- `/notebooks/` — final Jupyter notebooks in order of execution
+- `/report/` — final project report (PDF)
+- `/data/` — data download instructions
 
-│
-├── notebooks/
+## Quick Start
+1. Clone the repository:
+   `git clone https://github.com/Miaaaac/ceu-ds-project-groupB-2026`
+2. Switch to the final branch:
+   `git checkout final`
+3. Install dependencies:
+   `pip install -r requirements.txt`
+4. Run notebooks in `/notebooks/` in numerical order
 
-│   ├── data_collection.ipynb
+## Data Sources
+- **eBird:** https://ebird.org/data/download
+- **NASA VIIRS VNP46A4:** https://ladsweb.modaps.eosdis.nasa.gov
+- **AQICN:** https://aqicn.org/api
+- **World Bank WDI:** https://databank.worldbank.org
 
-│   ├── preprocessing.ipynb
+## Authors
+Group B – CEU Department of Undergraduate Studies, 2026
 
-│   ├── eda.ipynb
-
-│   ├── feature_engineering.ipynb
-
-│   └── hypothesis_testing.ipynb
-│
-
-├── reports/
-
-│   └── proposal.pdf
-
-│   └── final reposry.pdf
-
-│
-└── data/
-
-    └── README.md  
-    
+## License
+CC BY-SA 4.0
