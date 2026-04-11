@@ -56,7 +56,7 @@ distribution of birds in Europe.
 1. Clone the repository
 2. Check the final_version branch (main is also good)
 3. Install dependencies: pip install -r requirements.txt
-4. Run notebooks in `/notebooks/` in the order listed in the table above
+4. Run notebooks in `/notebooks/`
 
 ---
 
@@ -115,7 +115,7 @@ pip install -r requirements.txt
 
 | Name |
 |------|
-| Mia Corduneanu-Huci |
+| Maria Corduneanu-Huci |
 | Shiwam K.C. |
 | Thanika Haltrich |
 
