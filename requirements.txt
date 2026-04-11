@@ -1,0 +1,16 @@
+pandas
+numpy
+geopandas
+shapely
+pyproj
+rasterio
+h5py
+scipy
+statsmodels
+pymannkendall
+matplotlib
+seaborn
+folium
+requests
+geopy
+wbdata
