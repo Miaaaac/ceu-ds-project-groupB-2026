@@ -1,5 +1,5 @@
 # AAnthropogenic Influence on Spatial Avian Distribution
-
+- final version
 ## CEU Data Science Project – Group B 2026
 
 ## Project Description
@@ -11,17 +11,6 @@ observations as the measure of bird spatial distribution.
 
 ## Repository Structure
 - `/notebooks/` — final Jupyter notebooks in order of execution
-- `/report/` — final project report (PDF)
-- `/data/` — data download instructions
-
-## Quick Start
-1. Clone the repository:
-   `git clone https://github.com/Miaaaac/ceu-ds-project-groupB-2026`
-2. Switch to the final branch:
-   `git checkout final`
-3. Install dependencies:
-   `pip install -r requirements.txt`
-4. Run notebooks in `/notebooks/` in numerical order
 
 ## Data Sources
 - **eBird:** https://ebird.org/data/download
